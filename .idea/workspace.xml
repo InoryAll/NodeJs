@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="416f91fb-a8b1-4f7e-b1be-722b5da079e9" name="Default" comment="..">
+    <list default="true" id="416f91fb-a8b1-4f7e-b1be-722b5da079e9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -67,8 +67,8 @@
       <file leaf-file-name="stream_mine.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stream/stream_mine.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -174,8 +174,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="257" />
-    <option name="y" value="52" />
+    <option name="x" value="192" />
+    <option name="y" value="89" />
     <option name="width" value="1502" />
     <option name="height" value="1029" />
   </component>
@@ -275,7 +275,7 @@
       <option name="presentableId" value="Default" />
       <updated>1502241501410</updated>
       <workItem from="1502241502655" duration="9256000" />
-      <workItem from="1502327398992" duration="5260000" />
+      <workItem from="1502327398992" duration="5360000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1502272232696</created>
@@ -291,14 +291,22 @@
       <option name="project" value="LOCAL" />
       <updated>1502332647442</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="..">
+      <created>1502351506576</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1502351506576</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14516000" />
+    <option name="totallyTimeSpent" value="14616000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="257" y="52" width="1502" height="1029" extended-state="0" />
+    <frame x="192" y="89" width="1502" height="1029" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -582,8 +590,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stream/stream_mine.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
