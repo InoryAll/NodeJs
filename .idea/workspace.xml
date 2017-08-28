@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="416f91fb-a8b1-4f7e-b1be-722b5da079e9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Express/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-    </list>
+    <list default="true" id="416f91fb-a8b1-4f7e-b1be-722b5da079e9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -363,7 +358,7 @@
       <workItem from="1502327398992" duration="5360000" />
       <workItem from="1502434520361" duration="639000" />
       <workItem from="1502702949977" duration="1083000" />
-      <workItem from="1503639040093" duration="722000" />
+      <workItem from="1503639040093" duration="1317000" />
     </task>
     <task id="LOCAL-00001" summary="..">
       <created>1502272232696</created>
@@ -390,7 +385,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17060000" />
+    <option name="totallyTimeSpent" value="17655000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="32" width="1131" height="1029" extended-state="1" />
